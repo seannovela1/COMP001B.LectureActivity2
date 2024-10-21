@@ -1,0 +1,19 @@
+css
+   header {
+       background-color: #4CAF50; /* Choose any color other than white */
+       padding: 20px;
+       margin: 20px 0;
+   }
+
+   .paragraph {
+       background-color: #f0ad4e; /* Choose a different color */
+       border: 1px solid #000;
+       width: 300px; /* Absolute width */
+       padding: 10px;
+   }
+
+   .centered {
+       margin: 0 auto; /* Center-align the paragraph */
+   }
+
+   
